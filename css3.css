@@ -1,0 +1,28 @@
+.before::before{
+    content: "Hi!";
+    color: aqua;
+    padding: 10px 10px;
+}
+.text::after {
+    content: "Label";
+    color: crimson;
+    padding: 5px 5px;
+}
+.text1::before {
+    content: "I love playing computer games!";
+    padding: 5px 5px;
+    color: blueviolet;
+}
+.text1::first-letter{
+    font-size: larger;
+    font-weight: bold;  
+    color:aquamarine;
+}
+.text1::first-line{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.text1::after{
+    content: "That's all I wanted to say.";
+    padding: 5px 5px;
+}
