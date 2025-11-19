@@ -1,0 +1,113 @@
+.yaiko {
+    background-color: rgba(0, 0, 0, 1);
+    width: 1300px;
+    border-radius: 32px;
+}
+
+.yaiko-extrablock {
+    padding: 40px 53px 40px 40px;
+    display: flex;
+    border-radius: 32px;
+}
+
+.yaiko__extrablock2 {
+    padding: 0px 53px;
+}
+
+.yaikoextrablock2__text {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 70.4px;
+    margin-bottom: 28px;
+}
+
+.yaikoextrablock2__text2 {
+    color: rgba(255, 255, 255, 0.7);
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    margin-bottom: 18px;
+}
+
+.yaikoextrablock2__text3 {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(25, 25, 25, 1);
+    padding: 0px 16px;
+    border-radius: 6px;
+    width: fit-content;
+}
+
+.yaikoextrablock2__text4 {
+    color: rgba(17, 141, 168, 1);
+    margin-top: 48.44px;
+    margin-bottom: 18px;
+    border-radius: 36px solid rgba(17, 141, 168, 1);
+}
+
+.yaikoextrablock2__button {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(17, 141, 168, 1);
+    padding: 12px 15px 12px 20px;
+    border-radius: 6px;
+    border: none;
+}
+
+.yaiko2 {
+    background-color: rgba(225, 237, 230, 1);
+    width: 290px;
+    height: 514px;
+    display: flex;
+}
+
+.yaiko-picture {
+    padding: 20px 20px 15px 20px;
+}
+
+.yaiko-card2__text1 {
+    padding: 0px 177px 10px 20px;
+    font-weight: 500;
+    color: rgba(134, 146, 139, 1);
+    line-height: 100%;
+    font-size: 16px;
+}
+
+.yaiko-card2__text2 {
+    color: rgba(44, 45, 53, 1);
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 100%;
+    padding: 0px 70px 10px 20px;
+}
+
+.yaiko-card2__text3 {
+    color: rgba(44, 45, 53, 1);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    padding: 0px 20px 30px 20px;
+}
+
+.yaiko-card2__price {
+    color: rgba(89, 141, 102, 1);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 100%;
+    padding: 0px 167px 10px 20px;
+}
+
+.yaiko-card2__button {
+    width: 250px;
+    height: 50px;
+    background-color: rgba(225, 237, 230, 1);
+    color: rgba(89, 141, 102, 1);
+    border: 1px solid rgba(89, 141, 102, 1);
+    padding: 14.5px 81.5px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+}
+
+.yaiko-card2__picturehelp {
+    padding: 0px 20px 30px 20px;
+}
